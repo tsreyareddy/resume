@@ -1,0 +1,2 @@
+# resume
+static and dynamic
